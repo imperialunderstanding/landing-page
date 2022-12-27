@@ -1,0 +1,70 @@
+.header {
+    font-family:roboto;
+    color: white;
+    background: navy;
+    padding: 8px;
+    display: flex;
+    align-items:flex-start
+}
+
+.links {
+    list-style-type: none;
+    color: white;
+    background: navy;
+    display: none;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+}
+
+.subsection {
+    font-family: roboto;
+    color: white;
+    background: navy;
+}
+
+.div {
+    width: 300px;
+    border: 5px solid blue;
+    padding: 50px;
+    margin: 50px;
+    display: inline;
+}
+
+.subsubsection {
+    font-family: roboto;
+    color: black;
+    background: white;
+}
+
+.modal {
+    background: blue;
+    width: 800px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px;
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+}
+
+.cta {
+    color: white;
+    font-size: 26px;
+    align-items: center;
+}
+
+.text {
+    color: white;
+    align-items: center;
+}
+
+.button {
+    background: white;
+    color: blue;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.index {
+    text-align: center;
+}
